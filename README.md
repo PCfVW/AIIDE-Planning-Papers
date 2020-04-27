@@ -1,4 +1,4 @@
-# AIIDE-Planning-Papers
+# AIIDE Game AI Planning Papers
 Links to AIIDE (Artificial Intelligence in Interactive Digital Entertainment) papers with "Planning" in their title.
 
 Path-planning papers not included.
