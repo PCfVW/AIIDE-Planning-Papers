@@ -10,11 +10,11 @@ Path-planning papers not included.
 >
 > ISBN 978-1-57735-235-8
 
-[Agent Architecture Considerations for Real-Time Planning in Games](https://www.aaai.org/Papers/AIIDE/2005/AIIDE05-018.pdf) / 105
+[Agent Architecture Considerations for Real-Time Planning in Games](https://www.aaai.org/Papers/AIIDE/2005/AIIDE05-018.pdf)
 
 Jeff Orkin.
 
-[Increasing Replayability with Deliberative and Reactive Planning](https://www.aaai.org/Papers/AIIDE/2005/AIIDE05-023.pdf) / 135
+[Increasing Replayability with Deliberative and Reactive Planning](https://www.aaai.org/Papers/AIIDE/2005/AIIDE05-023.pdf)
 
 Michael van Lent, Mark O. Riedl, Paul Carpenter, Ryan McAlinden, and Paul Brobst.
 
