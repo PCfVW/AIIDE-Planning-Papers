@@ -115,3 +115,105 @@ Alejandro Jose Ramirez, Vadim Bulitko
 > 250 pp., references, index, illus.
 >
 > ISBN 978-1-57735-607-3
+
+[Evaluating Planning-Based Experience Managers for Agency and Fun in Text-Based Interactive Narrative](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7382/7590)
+
+Alejandro Jose Ramirez, Vadim Bulitko, Marcia Spetch
+
+[A Nondeterministic Temporal Planning Model for Generating Narratives with Continuous Change in Interactive Storytelling](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7409/7596)
+
+Paulo Abelha, Vinicius Gottin, Angelo Ciarlini, Eric Araujo, Antonio Furtado, Bruno Feijo, Fabio Silva, Cesar Pozzer
+
+[Automated Generation of Diverse NPC-Controlling FSMs Using Nondeterministic Planning Techniques](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7373/7598)
+
+Alexandra Coman, Hector Munoz-Avila
+
+## AIIDE 2014
+> Edited by Ian Horswill and Arnav Jhala
+>
+> 232 pp., references, index, illus.
+>
+> ISBN 978-1-57735-681-3
+
+[Game AI Planning Analytics: The Case of Three First-Person Shooters](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/8999/8937)
+
+Éric Jacopin
+
+[Optimizing Player Experience in Interactive Narrative Planning: A Modular Reinforcement Learning Approach](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9008/8943)
+
+Jonathan Rowe, Bradford Mott, James Lester
+
+## AIIDE 2015
+> Edited by Arnav Jhala and Nathan Sturtevant
+>
+> 254 pp., references, index, illus.
+>
+> ISBN 978-1-57735-740-7
+
+[Width-Based Planning for General Video-Game Playing](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11540/11350)
+
+Tomas Geffner, Hector Geffner
+
+## AIIDE 2016
+> Edited by Nathan Sturtevant and Brian Magerko
+>
+> 283 pp., references, index, illus.
+>
+> ISBN 978-1-57735-772-8
+
+[Fast and Diverse Narrative Planning through Novelty Pruning](https://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14020/13592)
+
+[ERRATUM](https://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14020/13654)
+
+Rachelyn Farrell, Stephen G. Ware
+
+[Building Helpful Virtual Agents Using Plan Recognition and Planning](https://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14014/13575)
+
+Christopher Geib, Janith Weerasinghe, Sergey Matskevich, Pavan Kantharaju, Bart Craenen, Ronald P. A. Petrick
+
+## AIIDE 2017
+> Edited by Brian Magerko and James Rowe
+>
+> 336 pp., references, index, illus.
+>
+> ISBN 978-1-57735-791-9
+
+[A Possible Worlds Model of Belief for State-Space Narrative Planning](https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15836/15172)
+
+Alireza Shirvani, Stephen G. Ware, Rachelyn Farrell
+
+[Causal Link Semantics for Narrative Planning Using Numeric Fluents](https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15870/15198)
+
+Rachelyn Farrell, Stephen G. Ware
+
+[Merits of Hierarchical Story and Discourse Planning with Merged Languages](https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15826/15208)
+
+David R. Winer, R. Michael Young
+
+## AIIDE 2018
+> Edited by Jonathan Rowe and Gillian Smith
+>
+> 320 pp., references, index, illus.
+>
+> ISBN 978-1-57735-804-6
+
+[A Hybrid Approach to Planning and Execution in Dynamic Environments Through Hierarchical Task Networks and Behavior Trees](https://aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/view/18111/17243)
+
+Xenija Neufeld, Sanaz Mostaghim, Sandy Brand
+
+[Leveraging Cognitive Models in Planning to Assist Narrative Authoring](https://aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/view/18088/17260)
+
+Rushit Sanghrajka
+
+## AIIDE 2019
+> Edited by Gillian Smith and Levi Lelis
+>
+> 258 pp., references, index, illus.
+>
+> ISBN 978-1-57735-819-0
+
+[Analysis of Statistical Forward Planning Methods in Pommerman](https://www.aaai.org/ojs/index.php/AIIDE/article/view/5226/5082)
+
+Diego Perez-Liebana, Raluca D. Gaina, Olve Drageset, Ercüment İlhan, Martin Balla, Simon M. Lucas
+
+
