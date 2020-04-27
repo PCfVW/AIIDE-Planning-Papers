@@ -26,3 +26,18 @@ Michael van Lent, Mark O. Riedl, Paul Carpenter, Ryan McAlinden, and Paul Brobst
 [Building Robust Planning and Exection Systems for Virtual Worlds](https://www.aaai.org/Papers/AIIDE/2006/AIIDE06-009.pdf)
 
 Don Dini, Michael Van Lent, Paul Carpenter, Kumar Iyer
+
+## AIIDE 2007
+> Edited by Jonathan Schaeffer and Michael Mateas
+>
+> 172 pp., references, index, illus.
+>
+> ISBN 978-1-57735-325-6
+
+[SquadSmart: Hierarchical Planning and Coordinated Plan Execution for Squads of Characters](https://www.aaai.org/Papers/AIIDE/2007/AIIDE07-003.pdf)
+
+Peter Gorniak, Ian Davis
+
+[Improving Narrative Consistency in Planning-Based Interactive Storytelling](https://www.aaai.org/Papers/AIIDE/2007/AIIDE07-012.pdf)
+
+Leandro Motta Barros, Soraia Raupp Musse
