@@ -41,3 +41,29 @@ Peter Gorniak, Ian Davis
 [Improving Narrative Consistency in Planning-Based Interactive Storytelling](https://www.aaai.org/Papers/AIIDE/2007/AIIDE07-012.pdf)
 
 Leandro Motta Barros, Soraia Raupp Musse
+
+## AIIDE 2008
+> Edited by Michael Mateas and Chris Darken
+>
+> 248 pp., references, index, illus.
+>
+> ISBN 978-1-57735-391-1
+
+[Offline Planning with Hierarchical Task Networks in Video Games](https://www.aaai.org/Papers/AIIDE/2008/AIIDE08-010.pdf)
+
+John-Paul Kelly, Adi Botea, Sven Koenig
+
+## AIIDE 2009
+> Edited by Christian J. Darken and G. Michael Youngblood
+>
+> 216 pp., references, index, illus.
+>
+> ISBN 978-1-57735-431-4
+
+[Bowyer: A Planning Tool for Bridging the Gap between Declarative and Procedural Domains](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE09/paper/view/802/1069)
+
+Steven P. Cash,R. Michael Young
+
+[A Real-Time PDDL-based Planning Component for Video Games](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE09/paper/view/778/1053)
+
+Olivier Bartheye,éric Jacopin
