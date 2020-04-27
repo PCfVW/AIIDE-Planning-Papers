@@ -1,5 +1,7 @@
 # AIIDE-Planning-Papers
-Links to AIIDE (Artificial Intelligence in Interactive Digital Entertainment) papers with "Planning" in their title
+Links to AIIDE (Artificial Intelligence in Interactive Digital Entertainment) papers with "Planning" in their title.
+
+Path-planning papers not included.
 
 ## AIIDE 2005
 > Edited by Michael Young and John Laird
