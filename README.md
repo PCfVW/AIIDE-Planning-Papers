@@ -218,4 +218,20 @@ Rushit Sanghrajka.
 
 Diego Perez-Liebana, Raluca D. Gaina, Olve Drageset, Ercüment İlhan, Martin Balla, Simon M. Lucas.
 
+## AIIDE 2020
+> Edited by Levi Lelis and David Thue
+>
+> 360 pp., references, index, illus.
+
+[Narrative Planning for Belief and Intention Recognition](https://aaai.org/ojs/index.php/AIIDE/article/view/7407/7317)
+
+Rachelyn Farrell, Stephen G. Ware
+
+[A Formalization of Emotional Planning for Strong-Story Systems](https://aaai.org/ojs/index.php/AIIDE/article/view/7419/7326)
+
+Alireza Shirvani, Stephen G. Ware
+
+[PAIndemic: A Planning Agent for Pandemic](https://aaai.org/ojs/index.php/AIIDE/article/view/7443/7280)
+
+Pablo Sauma-Chacón, Markus Eger
 
